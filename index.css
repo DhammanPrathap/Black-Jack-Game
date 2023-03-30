@@ -4,7 +4,7 @@ body{
     font-weight: bold;
     color: rgb(255, 255, 255);
     background-size: cover;
-    background-image: url("images/table.png");
+    background-image: url("table.png");
 }
 h1{
     color: goldenrod;
